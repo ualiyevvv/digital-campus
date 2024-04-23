@@ -1,0 +1,10 @@
+
+.notice {
+    position: absolute;
+    left: 50%;
+    top: 30px;
+    transform: translate(-50%, 0);
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgba(211, 211, 211, 0.5);
+}

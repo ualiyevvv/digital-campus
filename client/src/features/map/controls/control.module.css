@@ -1,0 +1,14 @@
+
+.controls {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(211, 211, 211, 0.5);
+    position: absolute;
+    /*display: flex;*/
+    left: 10px;
+    top: 50%;
+    transform: translate(0, -50%)
+}
+.controls button:last-child {
+    margin-bottom: 0;
+}
