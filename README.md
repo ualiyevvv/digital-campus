@@ -1,9 +1,9 @@
 # DigitalCampus
 
 
-## Функциональные возможности
+## Features
 
-## Технологии
+## Built
 Backend
 - Node.js
 - Express.js
